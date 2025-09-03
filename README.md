@@ -20,6 +20,7 @@ This project is part of a cybersecurity awareness film. It demonstrates how **fa
 View the deployed page here:  
 `https://tech16909-art.github.io/cloud-bugsolution-claim/`
 
+
 ## 📂 Folder Structure
 
 [README.md.txt](https://github.com/user-attachments/files/21530324/README.md.txt)
