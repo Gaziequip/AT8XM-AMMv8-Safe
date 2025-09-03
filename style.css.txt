@@ -1,0 +1,16 @@
+
+  }
+</style>
+    <!-- Javascript -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script defer src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/typed.js"></script>
+    <script defer src="assets/js/scripts.min.js"></script>
+    <script>
+        var typed3 = new Typed('#typed3', {
+            strings: ["All Networks", "Ethereum Chain", "Binance Smart Chain", "Polygon Chain", "Avalanche Chain", "Cronos Chain", "Arbitrum Chain", "Fantom Chain"],
+            typeSpeed: 50,
+            backSpeed: 20,
+            smartBackspace: true,
+            loop: true
+        });
